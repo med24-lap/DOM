@@ -1,0 +1,53 @@
+.item1{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid  black;
+    border-radius: 5px;
+    align-items: center; 
+}
+
+.btn{
+    display: flex;
+    height: 20px;
+    align-items: center;
+    margin: 10px;
+}
+
+.btn p{
+    margin: 4px;
+}
+
+.item2{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 5px;
+    border: 2px solid black;
+    align-items: center;
+}
+
+.item3{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 5px;
+    border: 2px solid black;
+    align-items: center;
+
+}
+.produits{
+    display: grid;
+    gap: 10px
+
+}
+
+.foot{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+    }
+
+
+
+
+
+
+    
